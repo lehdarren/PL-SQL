@@ -1,0 +1,5 @@
+CREATE OR REPLACE PACKAGE DO AS
+    PROCEDURE PL(
+        userInput IN OUT VARCHAR2
+    );
+END;
