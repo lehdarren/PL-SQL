@@ -18,7 +18,7 @@ Rollback;
 
 select * from BB_Product;
 
---update is not new to you...retard
+--update is not new to you
 
 /*
     variable declarations
